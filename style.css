@@ -4,6 +4,7 @@
 }
 
 body {
+    margin:auto;
     font-family: 'Open Sans';
     text-decoration: none;
     background: url('img/back2.jpg');
