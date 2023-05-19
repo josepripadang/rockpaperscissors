@@ -136,7 +136,9 @@ ul li .rock, .paper, .scissors {
 }
 
 .button span {
-   
+   position:absolute;
+   top:1px;
+   right:-150px;
     background: gray;
     position: inline;
     padding: 5px 8px;
