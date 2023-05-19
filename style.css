@@ -9,7 +9,7 @@ body {
     text-decoration: none;
     background: url('img/back2.jpg');
     background-size:cover;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
 }
 
 
@@ -199,7 +199,7 @@ ul li .rock, .paper, .scissors {
     body {
         background: url('img/back.jpg');
         background-size:cover;
-        background-repeat: repeat;
+        background-repeat: no-repeat;
     }
 
     wrapper {
